@@ -37,6 +37,17 @@ Dataset used:
 
 Source : Source: Kaggle – Credit Card Fraud Detection Dataset
 
+### Dataset Access
+
+The dataset is not included in this repository because it exceeds GitHub’s file size limit.
+
+Download it from Kaggle and place it inside the `data/` folder:
+
+`data/creditcard.csv`
+
+Source: [Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+
 **Dataset characteristics:**
 | Feature                 | Value                 |
 | ----------------------- | --------------------- |
