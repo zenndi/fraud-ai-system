@@ -35,16 +35,6 @@ Dataset used:
 
 **Credit Card Fraud Detection Dataset**
 
-Source : Source: Kaggle – Credit Card Fraud Detection Dataset
-
-### Dataset Access
-
-The dataset is not included in this repository because it exceeds GitHub’s file size limit.
-
-Download it from Kaggle and place it inside the `data/` folder:
-
-`data/creditcard.csv`
-
 Source: [Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 
@@ -67,6 +57,16 @@ Most variables are anonymized using **PCA transformation**.
 **Where:**
 - `0` → Normal transaction
 - `1` → Fraudulent transaction
+
+
+### Dataset Access
+
+The dataset is not included in this repository because it exceeds GitHub’s file size limit.
+
+Download it from Kaggle and place it inside the `data/` folder:
+
+`data/creditcard.csv`
+
 
 
 ## 📊 Exploratory Data Analysis (EDA) & Model Evaluation
