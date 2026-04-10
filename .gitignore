@@ -18,3 +18,5 @@ __pycache__/
 
 #Dataset
 data/creditcard.csv
+
+.kilo/

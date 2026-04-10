@@ -1,7 +1,16 @@
-tensorflow
+tensorflow-macos
+tensorflow-metal
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 imbalanced-learn
+fastapi
+uvicorn[standard]
+pydantic
+pyyaml
+websockets
+websocket-client
+streamlit
+requests

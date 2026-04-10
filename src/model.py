@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow.keras.layers import Dense, Input
 
 class FraudDetectionModel:
-    def __init__(self, input_dim):
+    def __init__(self, input_dim, config_path=None):
         self.input_dim = input_dim
 
     def build_model(self):
